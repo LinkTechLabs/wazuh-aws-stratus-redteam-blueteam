@@ -252,7 +252,6 @@ This attack emulates an adversary disrupting CloudTrail Logging by creating an e
 └─$ stratus cleanup aws.exfiltration.ec2-security-group-open-port-22-ingress
 └─$ stratus cleanup aws.credential-access.ec2-get-password-data
 ```
-![cleanup](./screenshots/cleanup.png)
 
 ## 🎯 Conclusion
 
